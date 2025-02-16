@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-https://img.shields.io/badge/-seyi-a-66537337-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyi-a-66537337)]
+
 
 Aspiring cloud Engineer, I'm passionate about sharing knowledge, documentation and others. 
 
